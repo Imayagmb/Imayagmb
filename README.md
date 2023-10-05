@@ -1,4 +1,4 @@
-- 👋 Olá, sou Mayara Gonçalves @Imayagmb
+- 👋 Olá, sou Mayara Gonçalves, mas podem me chama de Maya @Imayagmb
 - 👀  Estou interessado em desenvolvimento web front-end e back-end.
 - 🌱 Atualmente estou aprendendo desenvolvimento web, incluindo tecnologias como HTML, CSS, JavaScript, Node.js e muito mais.
 - 💞️ Procuro colaborar em projetos que me permitam aplicar e aprimorar minhas habilidades de desenvolvimento, contribuindo para soluções inovadoras e desafiadoras. Aprender e crescer com uma equipe talentosa
