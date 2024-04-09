@@ -11,15 +11,14 @@ You can click the Preview link to take a look at your changes.
 
 Minhas Skills
 <p align = "left" </p>
-   <img align="center" alt="Beatriz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="May-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Beatriz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Beatriz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Beatriz-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
    <img align="center" alt="Beatriz-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 
+🚀 Linguagens: Html;
+🚀 Linguagens: Css;
 🚀 Linguagens: JavaScript;
 🚀 Frameworks: Bootstrap;
 🚀 Bancos de Dados: SQL Server e MySQL;
-🚀 Metodologias Ágeis: Scrum e PMBOK;
-🚀 Conhecimento em UX/UI;
 🚀 Ferramentas: Figma e Git.
