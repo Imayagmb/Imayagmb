@@ -17,6 +17,7 @@ Minhas Skills
    <img align="center" alt="Beatriz-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 
 🚀 Linguagens: Html;
+
 🚀 Linguagens: Css;
 🚀 Linguagens: JavaScript;
 🚀 Frameworks: Bootstrap;
