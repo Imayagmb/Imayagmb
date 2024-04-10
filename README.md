@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 </ul>
 
 
-       <div align = "center"> 
+<div align="center"> 
 
 <a href="www.linkedin.com/in/mayara-gonçalves-monteiro" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
