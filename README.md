@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center"> 
 
-<a href="www.linkedin.com/in/mayara-gonçalves-monteiro" target="_blank">
+<a href=""https://www.linkedin.com/in/mayara-gonçalves-monteiro" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
