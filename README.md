@@ -8,7 +8,7 @@
 Imayagmb/Imayagmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<hr> 
 My Skills
 <p align = "left" </p>
    <img align="center" alt="Maya-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,10 +19,14 @@ My Skills
    <img align="center" alt="Maya-git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png">
    <img align="center" alt="Maya-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
    
-
+<hr> 
 - 🚀 Linguagens: Html;
 - 🚀 Linguagens: Css;
 - 🚀 Linguagens: JavaScript;
 - 🚀 Frameworks: Bootstrap;
 - 🚀 Ferramentas: Figma e Git;
 - 🚀 Bancos de Dados: SQL Server e MySQL.
+
+<a href="https:/www.linkedin.com/in/mayara-gonçalves-monteiro target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
