@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:mayamonteiro74@gmail.com" target="_blank" target="_blank">
-    <img src="https://img.shields.io/badge/-email-%23E4405F?style=for-the-badge&logo=email&logoColor=white">
+    <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png">
 </a>
 </div>
 
