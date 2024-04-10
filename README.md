@@ -19,12 +19,12 @@ My Skills
    <img align="center" alt="Maya-git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png">
    <img align="center" alt="Maya-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
    
-<hr> 
-- 🚀 Linguagens: Html;
-- 🚀 Linguagens: Css;
-- 🚀 Linguagens: JavaScript;
-- 🚀 Frameworks: Bootstrap;
-- 🚀 Ferramentas: Figma e Git;
-- 🚀 Bancos de Dados: SQL Server e MySQL.
-
+<ul>
+<li> 🚀 Linguagens: Html;</li>
+<li> 🚀 Linguagens: Css;</li>
+<li> 🚀 Linguagens: JavaScript;</li>
+<li> 🚀 Frameworks: Bootstrap;</li>
+<li> 🚀 Ferramentas: Figma e Git;</li>
+<li> 🚀 Bancos de Dados: SQL Server e MySQL.</li>
+</ul>
 
