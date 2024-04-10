@@ -36,8 +36,7 @@ You can click the Preview link to take a look at your changes.
 <a href="www.linkedin.com/in/mayara-gonçalves-monteiro" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:mayamonteiro74@gmail.com" target="_blank" target="_blank"
- <alt="Maya-Gmail" height="30" width="40" img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png">
+<a href="mailto:mayamonteiro74@gmail.com" target="_blank" target="_blalt="Maya-Gmail" height="30" width="40" img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png">
 </a>
 </div>
 
