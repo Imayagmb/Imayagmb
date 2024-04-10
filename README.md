@@ -1,4 +1,4 @@
-<h1>Olá, sou Mayara Gonçalves, mas podem me chama de Maya @Imayagmb</h1>
+<h1>Olá, sou <span>Mayara Gonçalves,</span> mas podem me chama de Maya @Imayagmb</h1>
 - 👀  Estou interessada em desenvolvimento web front-end, back-end e app mobile.
 - 🌱 Atualmente estou aprendendo desenvolvimento web, incluindo tecnologias como HTML, CSS, JavaScript, Node.js e muito mais.
 - 💞️ Procuro colaborar em projetos que me permitam aplicar e aprimorar minhas habilidades de desenvolvimento, contribuindo para soluções inovadoras e desafiadoras. Aprender e crescer com uma equipe talentosa.
