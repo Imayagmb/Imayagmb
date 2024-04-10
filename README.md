@@ -1,4 +1,4 @@
-<h1>Olá, sou <strong>Mayara Gonçalves,</strong> mas podem me chama de Maya @Imayagmb</h1>
+<h1>Oi, sou <strong>Mayara Gonçalves,</strong></h1>
 - 👀  Estou interessada em desenvolvimento web front-end, back-end e app mobile.
 - 🌱 Atualmente estou aprendendo desenvolvimento web, incluindo tecnologias como HTML, CSS, JavaScript, Node.js e muito mais.
 - 💞️ Procuro colaborar em projetos que me permitam aplicar e aprimorar minhas habilidades de desenvolvimento, contribuindo para soluções inovadoras e desafiadoras. Aprender e crescer com uma equipe talentosa.
@@ -30,3 +30,22 @@ You can click the Preview link to take a look at your changes.
 <li> 🚀 Bancos de Dados: SQL Server e MySQL.</li>
 </ul>
 
+<footer class="footer bg-light">
+        <div class="container">
+            <div class="row justify-content-center text-center">
+                <div class="col-md-12">
+                    <div class="text-center text-white footer-alt">
+                        <ul class="list-unstyled list-inline mb-3">
+                            
+                            <li class="list-inline-item"><a href="www.linkedin.com/in/mayara-gonçalves-monteiro"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+                            </li>
+                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-instagram text-muted"></i></a>
+                            </li>
+                            
+                        </ul>
+                        <p class="text-muted mb-0"> Copyright 2023 &copy; | Maya Monteiro. </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
