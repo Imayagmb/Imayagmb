@@ -1,4 +1,4 @@
-<h1>Oi, sou <strong>Mayara Gonçalves,</strong></h1>
+<h1>Oi, sou <strong>Mayara Gonçalves!</strong></h1>
 - 👀  Estou interessada em desenvolvimento web front-end, back-end e app mobile.
 - 🌱 Atualmente estou aprendendo desenvolvimento web, incluindo tecnologias como HTML, CSS, JavaScript, Node.js e muito mais.
 - 💞️ Procuro colaborar em projetos que me permitam aplicar e aprimorar minhas habilidades de desenvolvimento, contribuindo para soluções inovadoras e desafiadoras. Aprender e crescer com uma equipe talentosa.
