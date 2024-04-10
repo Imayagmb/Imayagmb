@@ -30,22 +30,14 @@ You can click the Preview link to take a look at your changes.
 <li> 🚀 Bancos de Dados: SQL Server e MySQL.</li>
 </ul>
 
-<footer class="footer bg-light">
-        <div class="container">
-            <div class="row justify-content-center text-center">
-                <div class="col-md-12">
-                    <div class="text-center text-white footer-alt">
-                        <ul class="list-unstyled list-inline mb-3">
-                            
-                            <li class="list-inline-item"><a href="www.linkedin.com/in/mayara-gonçalves-monteiro"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-                            </li>
-                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-instagram text-muted"></i></a>
-                            </li>
-                            
-                        </ul>
-                        <p class="text-muted mb-0"> Copyright 2023 &copy; | Maya Monteiro. </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+
+       <div align = "center"> 
+
+<a href="www.linkedin.com/in/mayara-gonçalves-monteiro" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:mayamonteiro74@gmail.com" target="_blank" target="_blank">
+    <img src="https://img.shields.io/badge/-email-%23E4405F?style=for-the-badge&logo=email&logoColor=white">
+</a>
+</div>
+
