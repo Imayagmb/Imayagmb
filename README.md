@@ -1,13 +1,13 @@
 <h1>Oi, sou <strong>Mayara Gonçalves!</strong></h1>
-- 👀  Estou interessada em desenvolvimento web front-end, back-end e app mobile.
-- 🌱 Atualmente estou aprendendo desenvolvimento web, incluindo tecnologias como HTML, CSS, JavaScript, Node.js e muito mais.
+<div>
+   <a href=https://github.com/Imayagmb>
+      <img height="180em" src=https://github-readme-stats.vercel.app/api?username-imayagmb&show_icons=true&theme=dracula&include_all_commits=true&count_private-true"/>
+</div>
+      
+- 👀  Estou interessada em desenvolvimento web, especificamente Front-End.
 - 💞️ Procuro colaborar em projetos que me permitam aplicar e aprimorar minhas habilidades de desenvolvimento, contribuindo para soluções inovadoras e desafiadoras. Aprender e crescer com uma equipe talentosa.
 
 
-<!---
-Imayagmb/Imayagmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <hr> 
 
