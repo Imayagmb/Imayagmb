@@ -37,7 +37,7 @@
  
 <br>
 <br>
-<div>
+<div align= "center">
    <a href=https://github.com/Imayagmb>
       <img height="180em" src=https://github-readme-stats.vercel.app/api?username=imayagmb&show_icons=true&theme=dark&include_all_commits=true&count_private-true"/> <br>
        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imayagmb&layout=compact&langs_count=7&theme=dark"/>
