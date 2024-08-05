@@ -1,4 +1,4 @@
-## <div align= "center">  Oi, eu sou a Mayara Monteiro!</div>
+## <div align= "center">  Oi, eu sou a Maya Monteiro!</div>
 
 <div align= "center">
 <p><strong>Desenvolvimento web</strong>, focada no <strong>Front-End.</strong> </p>
