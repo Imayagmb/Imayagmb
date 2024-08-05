@@ -10,9 +10,7 @@
 <strong> My Skills </strong>
  <br>
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Maya-HTML" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://www.8pdev.studio/upload/2021/06/empresa_site_riopreto.gif)">
- </div>
+
  
 <div style="display: inline_block"><br>
  <img align="center" alt="Maya-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
