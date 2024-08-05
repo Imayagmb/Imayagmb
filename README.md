@@ -5,6 +5,8 @@
 <p>Busco projetos desafiadores para aplicar e aprimorar minhas habilidades, <br> contribuindo com soluções inovadoras e aprendendo com uma equipe talentosa.</p>
 </div>
 
+![imagem1](https://github.com/user-attachments/assets/4814e4a0-17f1-46c4-a7d4-25a431df5101)
+
 
 ##
 <strong> My Skills </strong>
