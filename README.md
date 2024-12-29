@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/232c0935-d574-4d88-97ef-faa81652eef0" alt="Olá_Mundo" width="300">
+  <img src="https://github.com/user-attachments/assets/232c0935-d574-4d88-97ef-faa81652eef0" alt="Olá_Mundo" width="500">
 </div>
 
 
