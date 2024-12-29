@@ -1,7 +1,7 @@
 ## <div align= "center">  Oi, eu sou a Maya Monteiro!</div>
 
 <div align= "center">
-<p><strong>Desenvolvimento web</strong>, focada no <strong>Front-End.</strong> </p>
+<p><strong>Desenvolvimento web.</strong> </p>
 <p>Busco projetos desafiadores para aplicar e aprimorar minhas habilidades, <br> contribuindo com soluções inovadoras e aprendendo com uma equipe talentosa.</p>
 </div>
 
