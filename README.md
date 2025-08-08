@@ -24,6 +24,7 @@
   <img align="center" alt="Maya-angular" height="30" width="40" src="https://github.com/user-attachments/assets/76daf91f-0326-4bf8-9f5c-be11cb3e8159">
   <img align="center" alt="Maya-react" height="30" width="40" src="https://github.com/user-attachments/assets/8106bb93-4610-4c6f-bb5f-c9ac7989bd2f">
   <img align="center" alt="Maya-nodejs" height="30" width="40" src="https://github.com/user-attachments/assets/f199375b-fa51-411b-8489-3fe7da21495c">
+  <img align="center" alt="Maya-vite" height="30" width="40" src="https://vitejs.dev/logo.svg">
 </div>
 
 
