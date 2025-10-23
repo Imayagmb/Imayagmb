@@ -10,7 +10,22 @@
 </div>
 
 
-## My Skills  
+##
+
+<div align= "center"> <strong>Confira meu portfólio:</strong></div>
+
+<br>
+
+<div align = "center"> 
+  <a href="https://portfolio-mayara-vs2-0.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-🚀 Portfólio 🔗 -%230d7a94?style=for-the-badge&logoColor=white">
+  </a>
+</div>
+
+##
+
+<div align= "center"> <strong>Skills:</strong></div>
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maya-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
