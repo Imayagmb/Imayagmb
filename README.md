@@ -59,9 +59,3 @@
 
  ##
  
-<br>
-<br>
-<div align= "center">
-   <a href=https://github.com/Imayagmb>
-       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imayagmb&layout=compact&langs_count=7&theme=dark"/>
-</div>
