@@ -1,4 +1,11 @@
-## <div align= "center">  Oi, eu sou a Maya Monteiro!</div>
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=36&pause=1000&color=8ECFE6&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+a+Maya+Monteiro!"
+    alt="Typing SVG"
+  />
+</div>
+
+
 
 <div align= "center">
 <p><strong>Desenvolvimento web.</strong> </p>
