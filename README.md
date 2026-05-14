@@ -36,9 +36,7 @@ contribuindo com soluções inovadoras e aprendendo com uma equipe talentosa.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8ECFE6,100:4da3ff"/>
 
-<strong> GitHub Stats </strong>
 
-<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=imayagmb&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imayagmb&layout=compact&theme=tokyonight&hide_border=true"/> </div>
 
 <strong> 🌐 Portfólio </strong>
 
