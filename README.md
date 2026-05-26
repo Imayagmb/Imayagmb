@@ -41,7 +41,7 @@ contribuindo com soluções inovadoras e aprendendo com uma equipe talentosa.
 <strong> 🌐 Portfólio </strong>
 
 <div align="center">
-  <a href="https://portfolio-mayara-vs2-0.vercel.app/" target="_blank">
+  <a href="https://maya-monteiro-full-stack.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-🚀 Portfólio 🔗 -%230d7a94?style=for-the-badge&logoColor=white">
   </a>
 </div>
